@@ -5,11 +5,11 @@ h1{
     background-color:black;
     color: white;
     margin-left: 20px;
-    padding: 20px;
+    padding: 20px 20px 20px 20px;
 }
 p{
     color: green;
     margin-left: 90;
     background-color: white;
-    padding: 20px;
+    padding: 20px 20px 20px 20px;
 }
