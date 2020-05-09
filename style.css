@@ -1,7 +1,11 @@
 body {
-    background-color: red;
+    background-color:grey;
 }
 h1{ 
     color: navy;
     margin-left: 20px
+}
+p{
+    color: green;
+    margin-left: 90;
 }
